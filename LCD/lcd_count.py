@@ -1,5 +1,5 @@
- 
-# Author: LearningEmbedded.com
+#!/usr/bin/python
+# Author: William V Jacob
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this code and associated documentation files , to use, copy, modify, merge,
 # publish, distribute when you agree to the following conditions:
@@ -11,7 +11,7 @@
 #                              measures that legally restrict others from doing
 #                              anything the license permits.
 
-# http://learningembedded.com/
+# Python for Raspberry 
 
  from lcd import CharLCD 	          # import CharLCD module
  from time import sleep 	          #import sleep module
