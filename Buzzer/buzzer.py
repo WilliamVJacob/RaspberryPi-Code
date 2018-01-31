@@ -1,5 +1,5 @@
-
-# Author: LearningEmbedded.com
+#!/usr/bin/python
+# Author: William V Jacob
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this code and associated documentation files , to use, copy, modify, merge,
 # publish, distribute when you agree to the following conditions:
@@ -9,9 +9,9 @@
 #               or your use.
 # No additional restrictions — You may not apply legal terms or technological 
 #                              measures that legally restrict others from doing
-#                              anything the license permits.                    
+#                              anything the license permits.
 
-# http://learningembedded.com/
+# Python for Raspberry 
 
 import RPi.GPIO as GPIO                 # imports Raspberry Pi's GPIO module
 import time                             # imports time module
